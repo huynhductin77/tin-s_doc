@@ -1,4 +1,4 @@
-# tin-s_doc
+# NGROK
 https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip  
 https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip  
 unzip /path/to/ngrok.zip  
